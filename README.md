@@ -9,7 +9,7 @@ I'm Muhammed Fayas ek.
 <!-- - 💞️ I’m looking to collaborate on beginner-friendly projects and learn from experienced developers. -->
 - 📫 How to reach me: fayas2.0ek@gmail.com
 
-##Skills
+## Skills
 - Wordpress design
 - HTML5,CSS3
 
