@@ -5,10 +5,13 @@ I'm Muhammed Fayas ek.
 <!-- This section is about me and my interests -->
 ## About Me
 - 👀 I’m interested in Full Stack Development, Mobile App Development, Cyber Security, Learning New Languages, and AI.
-- Wordpress Designer
 - 🌱 I’m currently learning Full Stack (MERN).
 <!-- - 💞️ I’m looking to collaborate on beginner-friendly projects and learn from experienced developers. -->
 - 📫 How to reach me: fayas2.0ek@gmail.com
+
+##Skills
+- Wordpress design
+- HTML5,CSS3
 
 <!-- This section lists the current technologies I am learning -->
 <!--## Current Learning
