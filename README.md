@@ -4,7 +4,7 @@ I'm Muhammed Fayas ek.
 
 <!-- This section is about me and my interests -->
 ## About Me
-- 👀 I’m interested in Full Stack Development, Mobile App Development, Cyber Security, Learning New Languages, and AI.
+- 👀 I’m interested in Full Stack Development, Mobile App Development, Cyber Security, Hardware Hacking, Learning New Languages, and AI.
 - 🌱 I’m currently learning Full Stack (MERN).
 <!-- - 💞️ I’m looking to collaborate on beginner-friendly projects and learn from experienced developers. -->
 - 📫 How to reach me: fayas2.0ek@gmail.com
