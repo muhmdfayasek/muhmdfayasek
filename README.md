@@ -12,7 +12,7 @@
 <a href="https://twitter.com/muhmdfayasek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhmdfayasek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhmdfayasek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/muhmdfayasek" height="30" width="40" /></a>
 <a href="https://fb.com/muhmdfayasek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhmdfayasek" height="30" width="40" /></a>
-<a href="https://instagram.com/muhmdfayasek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhmdfayasek_" height="30" width="40" /></a>
+<a href="https://instagram.com/muhmdfayasek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhmdfayasek_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
