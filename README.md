@@ -18,10 +18,10 @@
   <a href="https://linkedin.com/in/muhmdfayasek" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/muhmdfayasek_" target="_blank" rel="noreferrer">
+  <a href="https://instagram.com/muhmdfayasek" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://fb.com/muhmdfayasek" target="_blank" rel="noreferrer">
+  <a href="https://fb.com/muhmdfayasek.fb" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
