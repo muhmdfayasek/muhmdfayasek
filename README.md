@@ -3,9 +3,12 @@
 
 
 
-- 🔭 I’m currently studying **BCA** in **SAFA College of Arts & Science**
+- I’m currently studying **BCA** in **Calicut University** affliated College
 
-- 👯 I’m looking to collaborate on **Interesting projects**
+- I’m looking to collaborate on **Interesting projects**
+
+- **Sharing is a Caring**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,13 +51,19 @@
       <br />JavaScript
     </td>
     <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+      </a>
+      <br />TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
       </a>
       <br />Python
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
@@ -73,14 +82,14 @@
       </a>
       <br />CSS3
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40" />
       </a>
       <br />Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
@@ -99,10 +108,45 @@
       </a>
       <br />n8n
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+      </a>
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+      </a>
+      <br />Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://penpot.app/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot.svg" alt="Penpot" width="40" height="40" />
+      </a>
+      <br />Penpot
+    </td>
+    <td align="center" width="96">
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />
+      </a>
+      <br />Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://podman.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="Podman" width="40" height="40" />
+      </a>
+      <br />Podman
+    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
     <td align="center" width="96"></td>
   </tr>
 </table>
-
 
 
 
@@ -111,4 +155,4 @@
 - I love exploring new technologies and staying up-to-date with the latest trends in the tech industry.
 - In my free time, I enjoy watching movies, series and informative videos.
 
-<!--Feel free to reach out if you have any questions or if you'd like to collaborate on a project! 🚀-->
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
